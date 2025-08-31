@@ -12,7 +12,9 @@
 </p>
 
 <!-- Centered introduction section -->
-<p align="center" style="font-family: 'Pixelify Sans', sans-serif; font-size:18px;">
-  <strong><span style="color:#d3d3d3;">About Me</span></strong><br>
-  <span style="color:#d3d3d3;">Hi! I'm Jharna. I code sometimes XD. I also enjoy collecting stationery, journaling, and finding new music.</span>
+<p align="center">
+  <font color="#d3d3d3" face="Pixelify Sans" size="5"><strong>About Me</strong></font><br>
+  <font color="#d3d3d3" face="Pixelify Sans" size="4">
+    Hi! I'm Jharna. I code sometimes XD. I also enjoy collecting stationery, journaling, and finding new music.
+  </font>
 </p>
