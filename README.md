@@ -3,7 +3,7 @@
 
 <!-- Left-aligned typing text -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=40&duration=4500&pause=500&color=d0c9e0&width=600&lines=Hi!+it's+Jharna"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=35&duration=4500&pause=500&color=d0c9e0&width=600&lines=Hi!+it's+Jharna"/>
 </p>
 
 <!-- Centered main image -->
