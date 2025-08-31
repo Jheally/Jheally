@@ -12,7 +12,7 @@
 </div>
 
 <!-- Introduction section -->
-<div align="center" style="margin-top: 20px; color:#d0c9e0; font-family: 'Pixelify Sans', sans-serif;">
+<div align="center" style="margin-top: 20px; color:#d3d3d3; font-family: 'Pixelify Sans', sans-serif;">
   <h2>About Me</h2>
   <p>Hi! I'm Jharna. I code sometimes XD. I also enjoy collecting stationery, journaling, and finding new music.</p>
 </div>
