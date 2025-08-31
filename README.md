@@ -1,8 +1,8 @@
 <!-- Top banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d0c9e0&height=120&section=header" alt="header"/>
 
-<!-- Typing text with wings -->
-<p align="center">
+<!-- Typing text with wings, left-aligned -->
+<p align="left">
   <!-- Left wing -->
   <img src="https://raw.githubusercontent.com/Jheally/Jheally/main/wing%20of%20angel%20%E5%A4%A9%E4%BD%BF%E4%B9%8B%E7%BF%BC.gif" width="80"/>
   
