@@ -14,6 +14,7 @@
 </p>
 
 <!-- Introduction section -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=400&size=20&duration=5000&pause=500&color=d0c9e0&width=500&lines=Hi!+I'm+Jharna.+I+code+sometimes+XD.+I+also+enjoy+collecting+stationery,+journaling,+and+finding+new+music."/>
+<p align="center" style="color:#d3d3d3;">
+  <strong>About Me</strong><br>
+  Hi! I'm Jharna. I code sometimes XD. I also enjoy collecting stationery, journaling, and finding new music.
 </p>
