@@ -12,7 +12,17 @@
 </p>
 
 <!-- Centered introduction section -->
-<p align="center">
-    Hi! I'm Jharna. I code sometimes XD. I also enjoy collecting stationery, journaling, and finding new music.
-  </font>
+<p align="center" style="color:#d3d3d3; font-family: 'Inter', sans-serif; font-size:16px; line-height:1.2;">
+  ⡤⠒⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡤⠒⢤
+  ⢣⡀⠀⠉⠲⢤⣀⡀⠀⠀⠀⠀⠀⠀⢀⣀⡤⠖⠉⠀⢀⡜
+  ⢸⡉⠒⠄⠀⠀⠀⢉⡙⢢  ⠀⡔⢋⡉⠀⠀⠀⠠⠒⢉⡇
+</p>
+
+<p align="center" style="color:#d3d3d3; font-family: 'Inter', sans-serif; font-size:16px; margin:10px 0;">
+  Hi! I'm Jharna. I code sometimes XD. I also enjoy collecting stationery, journaling, and finding new music.
+</p>
+
+<p align="center" style="color:#d3d3d3; font-family: 'Inter', sans-serif; font-size:16px; line-height:1.2;">
+  ⠀⠉⢖⠒⠀⠀⠀⣇⠀⣸⠀⠀⣇⠀⣸⠀⠀⠀⠒⡲⠉⠀
+  ⠀⠀⠀⠉⠙⠫⠤⠚⠉⠀⠀⠀⠀⠉⠓⠤⠝⠋⠉⠀⠀⠀
 </p>
