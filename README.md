@@ -1,5 +1,5 @@
 <!-- Top banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d0c9e0height=120&section=header" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d0c9e0&height=120&section=header" alt="header"/>
 
 <!-- Left-aligned typing text -->
 <p align="left">
