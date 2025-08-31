@@ -3,7 +3,7 @@
 
 <!-- Left-aligned typing text -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=25&duration=4500&pause=500&color=d0c9e0&width=435&lines=Hi!+it's+Jharna;˚₊‧꒰ა+☆+໒꒱‧₊;Hi!+it's+Jheally;˚₊‧꒰ა+☆+໒꒱‧₊˚" alt="Hi I am Jharna"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=25&duration=3000&pause=500&color=d0c9e0&width=435&lines=Hi!+it's+Jharna;˚₊‧꒰ა+☆+໒꒱‧₊;Hi!+it's+Jheally;˚₊‧꒰ა+☆+໒꒱‧₊˚" alt="Hi I am Jharna"/>
 </p>
 
 <!-- Centered main image -->
@@ -12,6 +12,6 @@
 </p>
 
 <!-- Centered introduction section -->
-<p align="center" style="color:#d3d3d3; font-family: 'Inter', sans-serif; font-size:16px; margin:10px 0;">
+<p align="center" style="color:#d3d3d3; font-family: 'Inter', Pixelify Sans; font-size:16px; margin:10px 0;">
   ˚₊‧꒰ა Hi! I'm Jharna. I code sometimes XD. I also enjoy collecting stationery, journaling, and finding new music. ໒꒱ ‧₊˚
 </p>
