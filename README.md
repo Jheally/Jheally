@@ -13,10 +13,6 @@
   <img src="https://i.pinimg.com/originals/07/01/99/070199b6f1766875e20d8ecd23870852.gif" width="80"/>
 </div>
 
-<!-- Small GIF below -->
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <img src="https://i.pinimg.com/originals/cf/04/58/cf04586a21e32ce7cadbbfcbf99cd624.gif" width="200"/>
-</div>
 
 <!-- Introduction section -->
 <div style="text-align: center; margin-top: 20px; font-family: 'Pixelify Sans', sans-serif; color: #d3d3d3;">
