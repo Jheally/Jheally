@@ -15,3 +15,6 @@
 <p align="center" style="color:#d3d3d3; font-family: 'Inter', Pixelify Sans; font-size:16px; margin:10px 0;">
   ˚₊‧꒰ა Hi! I'm Jharna. I code sometimes XD. I also enjoy collecting stationery, journaling, and finding new music. ໒꒱ ‧₊˚
 </p>
+
+<!-- Bottom banner -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d0c9e0&height=120&section=footer" alt="footer"/>
