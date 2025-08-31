@@ -11,10 +11,9 @@
   <img src="https://i.pinimg.com/1200x/55/20/c7/5520c7403fbf719e038bbcf1274d27b4.jpg" width="200"/>
 </p>
 
-<!-- Centered GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jheally/Jheally/main/terminal.gif" width="400"/>
-</p>
+<div>
+    <img src="./terminal.gif" alt="Terminal GIF"/>
+</div>
 
 
 <!-- Centered introduction section -->
