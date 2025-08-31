@@ -5,7 +5,8 @@
 </a>
 
 <div align-"center">
-    <img src="https://https://i.pinimg.com/originals/cf/04/58/cf04586a21e32ce7cadbbfcbf99cd624.gif" alt="Jellyfish" width="150"/>
+    <img src="https://i.pinimg.com/originals/cf/04/58/cf04586a21e32ce7cadbbfcbf99cd624.gif" alt="Jellyfish" width="150"/>
+
 </div>
 
 
