@@ -3,8 +3,7 @@
 
 <!-- Left-aligned typing text -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=35&duration=4500&pause=500&color=d0c9e0&width=600&lines=Hi!+it's+Jharna+˚ʚ♡ɞ˚"/>
-</p>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hi!+it's+Jharna+;Hi!+it's+Jheally;˚₊‧꒰ა ☆ ໒꒱ ‧₊˚" alt="Hi I am Jharna"/>
 
 <!-- Centered main image -->
 <p align="center">
