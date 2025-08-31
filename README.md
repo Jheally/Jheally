@@ -11,6 +11,12 @@
   <img src="https://i.pinimg.com/1200x/55/20/c7/5520c7403fbf719e038bbcf1274d27b4.jpg" width="200"/>
 </p>
 
+<!-- Centered GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jheally/Jheally/main/terminal.gif" width="400"/>
+</p>
+
+
 <!-- Centered introduction section -->
 <p align="center" style="color:#d3d3d3; font-family: 'Inter', Pixelify Sans; font-size:16px; margin:10px 0;">
   ˚₊‧꒰ა Hi! I'm Jharna. I code sometimes XD. I also enjoy collecting stationery, journaling, and finding new music. ໒꒱ ‧₊˚
