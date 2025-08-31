@@ -4,7 +4,7 @@
 <!-- Typing text with wings -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-top: 20px;">
   <!-- Left wing -->
-  <img src="https://github.com/Jheally/Jheally/blob/main/wing%20of%20angel%20%E5%A4%A9%E4%BD%BF%E4%B9%8B%E7%BF%BC%20(1).gif" width="80"/>
+  <img src="https://github.com/Jheally/Jheally/blob/267fa9496f1d91803681ceb514b8e6c6d312824d/wing%20of%20angel%20%E5%A4%A9%E4%BD%BF%E4%B9%8B%E7%BF%BC.gif" width="80"/>
   
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=25&duration=4500&pause=500&color=d0c9e0&width=435&lines=Hi!+it's+Jharna&background=00000000"/>
