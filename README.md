@@ -1,9 +1,9 @@
 <!-- Top banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d0c9e0&height=120&section=header" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d0c9e0height=120&section=header" alt="header"/>
 
 <!-- Left-aligned typing text -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=25&duration=4500&pause=500&color=d0c9e0width=435&lines=Hi!+it's+Jharna+˚₊‧꒰ა+☆+໒꒱‧₊,Hi!+it's+Jheally+˚₊‧꒰ა+☆+໒꒱+‧₊˚" alt="Hi I am Jharna"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=25&duration=4500&pause=500&color=d0c9e0width=435&lines=Hi!+it's+Jharna+˚₊‧꒰ა+☆+໒꒱‧₊;Hi!+it's+Jheally+˚₊‧꒰ა+☆+໒꒱+‧₊˚" alt="Hi I am Jharna"/>
 </p>
 
 <!-- Centered main image -->
