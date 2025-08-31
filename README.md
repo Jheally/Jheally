@@ -3,7 +3,7 @@
 
 <!-- Left-aligned typing text -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=45&duration=4500&pause=500&color=d0c9e0&width=600&lines=Hi!+it's+Jharna"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=40&duration=4500&pause=500&color=d0c9e0&width=600&lines=Hi!+it's+Jharna"/>
 </p>
 
 <!-- Centered main image -->
@@ -13,8 +13,6 @@
 
 <!-- Centered introduction section -->
 <p align="center">
-  <font color="#d3d3d3" face="Pixelify Sans" size="5"><strong>About Me</strong></font><br>
-  <font color="#d3d3d3" face="Pixelify Sans" size="4">
     Hi! I'm Jharna. I code sometimes XD. I also enjoy collecting stationery, journaling, and finding new music.
   </font>
 </p>
