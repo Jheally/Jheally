@@ -4,12 +4,11 @@
 <!-- Typing text with GIF halves -->
 <table align="center">
   <tr>
-    <td><img src="https://s5.ezgif.com/tmp/ezgif-59ad10820e17c6.gif" width="75"/></td>
+    <td><img src="YOUR_LEFT_GIF_URL.gif" width="75"/></td>
     <td align="center">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=25&duration=4500&pause=500&color=d0c9e0&width=435&lines=Hi!+it's+Jharna"/>
-      </a>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&weight=500&size=25&duration=4500&pause=500&color=d0c9e0&width=435&lines=Hi!+it's+Jharna"/>
     </td>
-    <td><img src="https://s5.ezgif.com/tmp/ezgif-553529f884f595.gif" width="75"/></td>
+    <td><img src="YOUR_RIGHT_GIF_URL.gif" width="75"/></td>
   </tr>
 </table>
+
