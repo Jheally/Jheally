@@ -7,8 +7,8 @@
 </div>
 
 <!-- Small GIF below -->
-<div align="center" style="margin-top: 100;">
-  <img src="https://i.pinimg.com/originals/cf/04/58/cf04586a21e32ce7cadbbfcbf99cd624.gif" width="100"/>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://i.pinimg.com/originals/cf/04/58/cf04586a21e32ce7cadbbfcbf99cd624.gif" width="200"/>
 </div>
 
 <!-- Introduction section -->
