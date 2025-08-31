@@ -8,7 +8,8 @@
 
 <!-- Small GIF below -->
 <div style="display: flex; justify-content: center; margin-top: 20px;">
-  <img src="https://i.pinimg.com/originals/cf/04/58/cf04586a21e32ce7cadbbfcbf99cd624.gif" width="200"/>
+  <img src="![ezgif-553529f884f595](https://github.com/user-attachments/assets/b2023828-fd76-4107-8d78-210bdfe8c177)
+" width="200"/>
 </div>
 
 <!-- Introduction section -->
