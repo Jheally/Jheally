@@ -10,8 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=25&duration=4500&pause=500&color=d0c9e0&width=435&lines=Hi!+it's+Jharna&background=00000000"/>
   
   <!-- Right wing -->
-  <img src="![wing of angel 天使之翼 (1)](https://github.com/user-attachments/assets/4a9cd49b-6334-43dc-b30a-4aad40e6a370)
-" width="80"/>
+  <img src="https://github.com/Jheally/Jheally/blob/main/wing%20of%20angel%20%E5%A4%A9%E4%BD%BF%E4%B9%8B%E7%BF%BC%20(1).gif" width="80"/>
 </div>
 
 
